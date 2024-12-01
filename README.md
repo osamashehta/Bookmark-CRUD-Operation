@@ -1,6 +1,7 @@
 # Bookmark CRUD Operation
 
-A simple and efficient Bookmark Manager built using JavaScript, HTML, and CSS. This project allows users to add, view, edit, and delete bookmarks for quick access to their favorite websites. It also includes an **Archive page** where users can permanently delete bookmarks or restore them.
+A simple and efficient Bookmark Manager built using **JavaScript**, **HTML**, and **CSS**. This project allows users to add, view, edit, and delete bookmarks for quick access to their favorite websites. It also includes an **Archive page** where users can permanently delete bookmarks or restore them.
+
 
 ## Features
 
